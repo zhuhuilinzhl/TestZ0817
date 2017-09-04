@@ -18,7 +18,7 @@
  http://www.jianshu.com/p/dd04eac3f42a
  
  */
-
+        
 #import "XLPaymentSuccessHUD.h"
 
 static CGFloat lineWidth = 4.0f;
